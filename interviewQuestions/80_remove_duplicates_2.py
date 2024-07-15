@@ -6,7 +6,6 @@ class Solution:
         return len(nums)
 
 
-nums = [0,0,0,0,0]
+nums = [0, 0, 0, 0, 0]
 Solution().removeDuplicates(nums)
 print(nums)
-
